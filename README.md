@@ -92,4 +92,4 @@ Video Organization
 
 ### Donation Support
 If you find this project useful, you can buy the author a cup of coffee.
-![Donation Support](.Assets/Pay.png)
+![Donation Support]()
