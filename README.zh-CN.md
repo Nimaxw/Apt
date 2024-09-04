@@ -92,4 +92,4 @@ ChatGPT
 
 ### 捐赠支持
 如果您觉得这个项目有用，可以请作者喝一杯咖啡。
-![Donation Support](.Assets/Pay.png)
+![Donation Support]()
